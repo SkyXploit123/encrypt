@@ -1,6 +1,10 @@
 # encrypt
 
-git clone https://github.com/SkyXploit123/encrypt?
+git clone https://github.com/SkyXploit123/encrypt
+
+ls
+
+cd encrypt/
 
 ls
 
